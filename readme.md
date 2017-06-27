@@ -13,6 +13,8 @@ A small function for calculating [Delannoy numbers](https://en.wikipedia.org/wik
 
 ## see also
 - [`kchapelier/von-neumann`](https://github.com/kchapelier/von-neumann) - find the number of cells in an `m`-dimensional von Neumann neighborhood of range `n`
+- [`semibran/motzkin`](https://github.com/semibran/motzkin) - calculate Motzkin numbers
+- [`semibran/narayana`](https://github.com/semibran/narayana) - calculate Narayana numbers
 
 ## license
 [MIT](https://opensource.org/licenses/MIT) © [Brandon Semilla](https://git.io/semibran)
