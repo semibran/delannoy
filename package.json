@@ -1,0 +1,16 @@
+{
+ "name": "delannoy",
+ "version": "0.1.0",
+ "description": "Calculate Delannoy numbers",
+ "keywords": ["delannoy", "numbers"],
+ "files": ["index.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/semibran/delannoy.git"
+ },
+ "dependencies": {
+  "factorial": "^1.0.0"
+ }
+}
