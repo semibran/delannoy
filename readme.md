@@ -1,5 +1,5 @@
 # delannoy
-![paths from (0, 0) to (m, n) ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Delannoy3x3.svg/500px-Delannoy3x3.svg.png)
+![paths from (0, 0) to (m, n)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Delannoy3x3.svg/500px-Delannoy3x3.svg.png)
 
 A small function for calculating [Delannoy numbers](https://en.wikipedia.org/wiki/Delannoy_number).
 
