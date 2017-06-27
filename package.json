@@ -18,6 +18,6 @@
   "url": "https://github.com/semibran/delannoy.git"
  },
  "dependencies": {
-  "factorial": "^1.0.0"
+  "choose": "0.0.0"
  }
 }
