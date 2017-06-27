@@ -1,9 +1,16 @@
 {
  "name": "delannoy",
- "version": "0.1.0",
+ "version": "0.1.1",
  "description": "Calculate Delannoy numbers",
- "keywords": ["delannoy", "numbers"],
- "files": ["index.js"],
+ "keywords": [
+  "delannoy",
+  "numbers",
+  "math",
+  "combinatorics"
+ ],
+ "files": [
+  "index.js"
+ ],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
  "repository": {
